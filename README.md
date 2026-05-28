@@ -1,5 +1,7 @@
 # Harness Engineering Template
 
+> **배포 URL**: https://toy-project-five.vercel.app
+
 Next.js 16 + React 19 프로젝트 템플릿
 
 ## 기술 스택
